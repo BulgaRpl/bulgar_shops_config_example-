@@ -1,0 +1,2 @@
+# bulgar_shops_config_example-
+bulgar_shops_config_example 
